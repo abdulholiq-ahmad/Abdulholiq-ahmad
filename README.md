@@ -1,8 +1,5 @@
 <h3 align="center">Frontend dasturchi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulholiq13&label=Profile%20views&color=0e75b6&style=flat" alt="abdulholiq13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulholiq13" alt="abdulholiq13" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, SASS, ReactJs,JQuery**
 
