@@ -1,4 +1,4 @@
-#Frontend dastruchi
+# Frontend dastruchi
 Frontend dasturchi: Frontend dasturlashni o'rganishni 2021-yil yozdan boshlagan. Hozirda JavaScript chuqurroq va uning React kutubxonasida ishlashni o'rganmoqchi bo'lgan dsasturchi.
 
 [💼 Portfolio](https://abdulholiq.netlify.app) | [💬 Telegram](https://t.me/Ahmadbekov13) 📧 ahmadbekovabdulholiq13@gmail.com
