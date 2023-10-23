@@ -25,5 +25,3 @@ Frontend dasturchi: Frontend dasturlashni o'rganishni 2021-yil yozdan boshlagan.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulholiq13&show_icons=true&locale=en&layout=compact" alt="abdulholiq13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulholiq13&show_icons=true&locale=en" alt="abdulholiq13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulholiq13&" alt="abdulholiq13" /></p>
