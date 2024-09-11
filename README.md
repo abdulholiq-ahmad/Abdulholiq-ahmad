@@ -5,9 +5,13 @@ I’m a Front-end developer.  I love problems solving, mostly in JavaScript.
 - Check out my [linkedin]([(https://www.linkedin.com/in/abdulholiq-ahmadbekov-408023255/))
 - I’m looking to collaborate on interesting projects
 - Ask me about creating website
-- How to reach me: @abdulholiq571@gmail.com
+- How to reach me: Telegram - @abdulholiq_ahmadbekov
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,tailwindcss)](https://skillicons.dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulholiq13&label=Profile%20views&color=0e75b6&style=flat" alt="kodirov8788" /></p>
+<p align="center">
+    <a href="https://hits.sh/github.com/abdulholiq13/">
+        <img src="https://hits.sh/github.com/abdulholiq13?view=today-total&label=Abdulholiq13's%20Viewers%20(today%20%2F%20total)&color=000000&labelColor=000000">
+  </a>
+</p>
 
