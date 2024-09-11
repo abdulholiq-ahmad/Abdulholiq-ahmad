@@ -2,7 +2,7 @@
 I’m a Front-end developer.  I love problems solving, mostly in JavaScript.
 
 ### About me
-- Check out my <a href="https://www.linkedin.com/in/abdulholiq-ahmadbekov-408023255/">linkedin</a>
+- Check out my <a href="https://www.linkedin.com/in/abdulholiq-ahmadbekov-408023255/" target="_blank">linkedin</a>
 - I’m looking to collaborate on interesting projects
 - Ask me about creating website
 - How to reach me: Telegram - @abdulholiq_ahmadbekov
