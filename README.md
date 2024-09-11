@@ -9,7 +9,7 @@ I’m a Front-end developer.  I love problems solving, mostly in JavaScript.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,tailwindcss)](https://skillicons.dev)
 
-<p align="center">
+<p align="left">
     <a href="https://hits.sh/github.com/Abdulholiq13/">
         <img src="https://hits.sh/github.com/Abdulholiq13.svg?view=today-total&label=Abdulholiq's%20Viewers%20(today%20%2F%20total)&color=000000&labelColor=000000">
   </a>
