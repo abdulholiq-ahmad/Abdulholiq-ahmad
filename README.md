@@ -7,15 +7,8 @@ I’m a Front-end developer.  I love problems solving, mostly in JavaScript.
 - Ask me about creating website
 - How to reach me: Telegram - @abdulholiq_ahmadbekov
 
-<div style="display: flex, align-items: center,">
-    <div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulholiq-ahmad&layout=compact)
-</div>
-<div>
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,tailwindcss,vite,gitlab)](https://skillicons.dev)
-</div>
-</div>
-
+  
 <p align="left">
     <a href="https://hits.sh/github.com/Abdulholiq13/">
         <img src="https://hits.sh/github.com/Abdulholiq13.svg?view=today-total&label=Abdulholiq's%20Viewers%20(today%20%2F%20total)&color=000000&labelColor=000000">
