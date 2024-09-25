@@ -8,6 +8,7 @@ I’m a Front-end developer.  I love problems solving, mostly in JavaScript.
 - How to reach me: Telegram - @abdulholiq_ahmadbekov
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,tailwindcss,vite,gitlab)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulholiq-ahmad&layout=compact)
 
 <p align="left">
     <a href="https://hits.sh/github.com/Abdulholiq13/">
