@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a Front-end developer.  I love problems solving, mostly in JavaScript and TypesScript.
+I’m a Frontend developer.  I love problems solving, mostly in JavaScript and TypesScript.
 
 ### About me
 - Check out my <a href="https://www.linkedin.com/in/abdulholiq-ahmadbekov/" target="_blank">linkedin</a>
