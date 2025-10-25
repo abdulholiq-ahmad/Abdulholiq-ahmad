@@ -5,7 +5,7 @@ I’m a Frontend developer.  I love problems solving, mostly in JavaScript and T
 - Check out my <a href="https://www.linkedin.com/in/abdulholiq-ahmadbekov/" target="_blank">linkedin</a>
 - I’m looking to collaborate on interesting projects
 - Ask me about creating website
-- How to reach me: Telegram - @abdulholiq_ahmadbekov
+- How to reach me: Telegram - @abdulxoliq_axmad
 
     [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,git,tailwindcss,vite,gitlab,github,redux,vim,vue,figma&theme=light)](https://skillicons.dev)
 
