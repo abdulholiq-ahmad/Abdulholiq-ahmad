@@ -7,7 +7,7 @@ I’m a Frontend developer.  I love problems solving, mostly in JavaScript and T
 - Ask me about creating website
 - How to reach me: Telegram - @abdulxoliq_axmad
 
-    [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,git,tailwindcss,vite,gitlab,github,redux,vim,vue,figma&theme=light)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,git,tailwindcss,vite,gitlab,github,redux,vim,vue,figma,nestjs,nodejs&theme=light)](https://skillicons.dev)
 
 <p align="left">
     <a href="https://hits.sh/github.com/Abdulholiq13/">
